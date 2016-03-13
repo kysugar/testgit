@@ -1,5 +1,6 @@
 #include <iostream>
 #include "tlm.h"
+#include "ky.h"
 using namespace std;
 
 int main() {
@@ -7,4 +8,5 @@ int main() {
 	cout << "version 2" << endl;
 	cout << "version 3" << endl;
 	print_tlm();
+	print_ky();
 }
