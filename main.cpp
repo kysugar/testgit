@@ -3,5 +3,6 @@
 using namespace std;
 
 int main() {
-	cout << "version 1" << endl;
+	cout << "Hello world" << endl;
+	cout << "version 2" << endl;
 }
